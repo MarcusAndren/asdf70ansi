@@ -24,11 +24,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    asdf
-#define PRODUCT         65%
-#define DESCRIPTION     t.m.k. keyboard firmware for asdf65%
+#define PRODUCT         70%
+#define DESCRIPTION     t.m.k. keyboard firmware for asdf70%
 
 /* key matrix size */
-#define MATRIX_ROWS 5
+#define MATRIX_ROWS 6
 #define MATRIX_COLS 15
 
 /* define if matrix has ghost */
